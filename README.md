@@ -1,0 +1,2 @@
+# plainlyicon
+Plainly Icon
